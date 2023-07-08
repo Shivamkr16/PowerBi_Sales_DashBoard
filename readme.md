@@ -1,6 +1,7 @@
 # Sample Project
 
-Objective : To contribute to the sucess of a business by utilizing data analysis tachniques, specifically focusing on TIME SERIES ANALYSIS, to provide valuable insights and Accurate Sales Forecasting.
+Objective : To contribute to the sucess of a business by utilizing data analysis techniques, specifically focusing on TIME SERIES ANALYSIS
+          : To provide valuable INSIGHTS and Accurate Sales Forecasting.
 
 ![1](https://github.com/Shivamkr16/PowerBi_Sales_DashBoard/assets/129687568/0bb3db42-625b-436d-a180-b98e899ff10d)
 
