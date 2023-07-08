@@ -1,2 +1,5 @@
-![alt text](https://drive.google.com/file/d/15jE1FLP1MSTY7F4SAs7kcFJ6k0g6V1id/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1NzxPTl_PtidihsgMvTPqEd-NT9FmPvOm/view?usp=drive_link)
+# Sample Project
+
+![1](https://github.com/Shivamkr16/PowerBi_Sales_DashBoard/assets/129687568/0bb3db42-625b-436d-a180-b98e899ff10d)
+
+![2](https://github.com/Shivamkr16/PowerBi_Sales_DashBoard/assets/129687568/bac76d6b-ea67-4c4f-8ae6-006c514d7085)
